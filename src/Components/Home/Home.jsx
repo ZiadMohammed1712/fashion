@@ -51,7 +51,7 @@ export default function Home() {
           <a
             href="https://www.instagram.com/princessfashion99?dmpr=MXQzMDNnNmNpcjJwNg%3D%3D&utm_source=qr"
             target="_blank"
-            className="flex items-center font-semibold hover:font-bold justify-center gap-3 bg-blue-600 py-3 rounded-lg hover:scale-105 transition"
+            className="flex items-center font-semibold hover:font-bold justify-center gap-3 bg-[#E4405F] py-3 rounded-lg hover:scale-105 transition"
           >
             {" "}
             <FaInstagram size={20} />  Instagram{" "}
@@ -60,7 +60,7 @@ export default function Home() {
           <a
             href="https://www.tiktok.com/@princess.fashion67?_r=1&_t=ZS-9BaqYpuMLeW"
             target="_blank"
-            className="flex items-center font-semibold hover:font-bold justify-center gap-3 bg-blue-600 py-3 rounded-lg hover:scale-105 transition"
+            className="flex items-center font-semibold hover:font-bold justify-center gap-3 bg-[#000000] py-3 rounded-lg hover:scale-105 transition"
           >
             {" "}
             <FaTiktok size={20} /> Tiktok{" "}
