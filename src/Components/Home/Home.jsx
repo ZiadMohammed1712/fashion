@@ -47,6 +47,24 @@ export default function Home() {
             {" "}
             <FaFacebookF size={20} />  Facebook{" "}
           </a>{" "}
+
+          <a
+            href="https://www.instagram.com/princessfashion99?dmpr=MXQzMDNnNmNpcjJwNg%3D%3D&utm_source=qr"
+            target="_blank"
+            className="flex items-center font-semibold hover:font-bold justify-center gap-3 bg-blue-600 py-3 rounded-lg hover:scale-105 transition"
+          >
+            {" "}
+            <FaInstagram size={20} />  Instagram{" "}
+          </a>{" "}
+
+          <a
+            href="https://www.tiktok.com/@princess.fashion67?_r=1&_t=ZS-9BaqYpuMLeW"
+            target="_blank"
+            className="flex items-center font-semibold hover:font-bold justify-center gap-3 bg-blue-600 py-3 rounded-lg hover:scale-105 transition"
+          >
+            {" "}
+            <FaTiktok size={20} /> Tiktok{" "}
+          </a>{" "}
   
           <a
             href="https://princessfashionstore.com/"
